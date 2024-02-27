@@ -12,7 +12,6 @@ spring security는 Authentication(인증)과 Authorization(인가)를 위한 옵
 
 ---
 
-[필터체인](https://www.notion.so/455c4e9984b14e969f32aa55a334c42b?pvs=21)
 
 ---
 
